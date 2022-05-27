@@ -10,7 +10,7 @@ import {
 
 import SignUpForm from '../../compoments/sign-up-form/sign-up-form.component';
 
-const SignIn = () => {
+const Authentication = () => {
 
     // useEffect(() => {
     //     async function fetchData(){
@@ -37,4 +37,4 @@ const SignIn = () => {
     );
 }
 
-export default SignIn;
+export default Authentication;
